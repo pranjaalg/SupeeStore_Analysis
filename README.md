@@ -6,7 +6,7 @@ An end-to-end Python data analysis project targeting retail performance across 9
 
 Key Highlights to Feature in your README:
 
-Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, WeasyPrint
+Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn,Scikit Learn
 
 Core Focus: Data Cleaning (IQR Median Imputation), Statistical Profiling, Data Visualization, Pricing & Discount Analysis, and Seasonal Trend Forecasting
 
